@@ -3,4 +3,4 @@
 
 <p class="fragment">web stuff (html/css/js) &rarr; cordova stuff (framework, libraries, plugins) &rarr; native app</p>
 
-<img src="img/corducken.gif" class="fragment" />
+<img src="images/corducken.gif" class="fragment" />
