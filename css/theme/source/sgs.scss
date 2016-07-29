@@ -60,31 +60,14 @@ section[has-dark-background=true] {
 		margin-bottom: 0px;
 	}
 
+	section img {
+		border: 0;
+		background: none;
+		box-shadow: none;
+	}
 }
 
 .full-width {
 	width: 100%;
 }
 
-
-
-.css-example {
-	p { 
-		padding: 10px; 
-	}
-
-	// Class selector
-	.example { 
-		background: orange;
-	}
-
-	// ID selector
-	#intro { 
-		font-style: italic;
-	}
-
-	// Contextual selector
-	p span { 
-		color: green; 
-	}
-}

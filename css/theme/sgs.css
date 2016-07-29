@@ -294,17 +294,10 @@ body {
 .reveal h2 {
   margin-bottom: 0px; }
 
+.reveal section img {
+  border: 0;
+  background: none;
+  box-shadow: none; }
+
 .full-width {
   width: 100%; }
-
-.css-example p {
-  padding: 10px; }
-
-.css-example .example {
-  background: orange; }
-
-.css-example #intro {
-  font-style: italic; }
-
-.css-example p span {
-  color: green; }
